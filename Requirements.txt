@@ -1,0 +1,6 @@
+streamlit
+boto3
+sentence-transformers
+scikit-learn
+pandas
+joblib
