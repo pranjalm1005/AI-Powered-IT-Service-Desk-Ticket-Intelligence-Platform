@@ -1,4 +1,4 @@
-# 🤖 AI-Augmented IT Support & Ticketing System
+<img width="1457" height="775" alt="image" src="https://github.com/user-attachments/assets/747d2d1c-02aa-4d97-af78-c2e962d0e31a" /># 🤖 AI-Augmented IT Support & Ticketing System
 
 An intelligent IT Service Management (ITSM) platform that automates ticket classification, similarity search, and resolution recommendations using Machine Learning, Vector Search, and Generative AI on AWS.
 
@@ -62,7 +62,7 @@ ai-itsm-platform/
 
 * **Frontend:** Streamlit, Python
 * **Backend:** AWS Lambda, API Gateway
-* **Database:** DynamoDB
+* **Database:** AURORA RDS
 * **AI / ML:**
 
   * SentenceTransformers
@@ -83,10 +83,6 @@ streamlit run app.py
 ```
 
 ---
-
-## 📸 Screenshots
-
-(Add screenshots here: admin dashboard, ticket view, AI suggestion, similarity search)
 
 ---
 
