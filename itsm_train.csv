@@ -1,0 +1,36 @@
+text,label
+VPN not connecting for remote employee,network_issue
+Unable to access office wifi,network_issue
+Internet keeps disconnecting frequently,network_issue
+VPN authentication failed,network_issue
+Slow WiFi speed in meeting room,network_issue
+Outlook not syncing emails,email_issue
+Unable to login to Outlook,email_issue
+Email not sending to external domain,email_issue
+Shared mailbox not accessible,email_issue
+Email delivery delay reported,email_issue
+Laptop not turning on,hardware_issue
+Keyboard not working on office laptop,hardware_issue
+Laptop overheating after boot,hardware_issue
+Monitor flickering continuously,hardware_issue
+Mouse not detected on desktop,hardware_issue
+Oracle Fusion login error,oracle_issue
+Unable to submit expense report in Oracle,oracle_issue
+Fusion dashboard not loading,oracle_issue
+OTBI report is failing,oracle_issue
+Pending approval not visible in Oracle,oracle_issue
+Unable to reset Active Directory password,access_issue
+User account locked out,access_issue
+Not able to access shared drive,access_issue
+SSO authentication failure,access_issue
+Permission denied while accessing folder,access_issue
+Teams meeting not joining,communication_issue
+Unable to login to Teams,communication_issue
+Audio not working in Teams call,communication_issue
+Zoom screen share not working,communication_issue
+Teams chat not loading,communication_issue
+Printer not connecting,printer_issue
+Printer showing paper jam error,printer_issue
+Unable to print PDF files,printer_issue
+Print queue stuck,printer_issue
+Printer offline status,printer_issue
