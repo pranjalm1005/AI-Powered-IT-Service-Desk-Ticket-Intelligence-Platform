@@ -43,20 +43,6 @@ ML Embeddings (SentenceTransformers)
 
 ---
 
-## 📁 Project Structure
-
-```
-ai-itsm-platform/
-├── ui/                 # Streamlit Frontend
-├── lambdas/            # All backend Lambda functions
-├── ml/                 # Training & Embedding models
-├── infrastructure/    # IAM, DynamoDB schema, deployment notes
-├── screenshots/       # UI screenshots
-├── README.md
-├── requirements.txt
-```
-
----
 
 ## ⚙️ Technologies Used
 
@@ -70,17 +56,6 @@ ai-itsm-platform/
   * Amazon Bedrock (LLM)
 * **Vector Search:** Semantic embeddings
 * **Cloud:** AWS (IAM, S3, CloudWatch)
-
----
-
-## 🚀 How to Run Locally
-
-```bash
-git clone https://github.com/yourname/ai-itsm-platform
-cd ui
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ---
 
